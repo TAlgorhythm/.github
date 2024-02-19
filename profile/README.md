@@ -1,4 +1,4 @@
-![image](https://github.com/TAlgorhythm/.github/assets/98510309/650051c1-26f9-4557-82ab-2a322a6cda6e)
+![image](https://github.com/TAlgorhythm/.github/assets/98510309/b0f53877-4d25-4ba5-a394-9a9144a29d17)
 <br><br>
 
 # 📌 개요
