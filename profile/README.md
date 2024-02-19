@@ -1,4 +1,6 @@
-![alt text](image.png)
+![image](https://github.com/TAlgorhythm/.github/assets/98510309/650051c1-26f9-4557-82ab-2a322a6cda6e)
+
+
 <br><br>
 
 # 📌 개요
