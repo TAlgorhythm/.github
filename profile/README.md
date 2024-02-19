@@ -1,12 +1,53 @@
-## Hi there 👋
+![alt text](image.png)
+<br><br>
 
-<!--
+# 📌 개요
 
-**Here are some ideas to get you started:**
+본 스터디는 티맥스의 연구원들이 근무 도중, 흥에 못 이겨 리듬을 타기 시작해 개설된 알고리즘 스터디 모임이다.
+<br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 📜 규칙
+
+- **알고리즘 플랫폼**은 제한 없이 자유롭게 선택할 수 있다.
+
+  - e.g.) 백준(및 solved.ac), 프로그래머스, LeetCode
+
+- **풀이 언어** 및 **문제**는 제한 없이 자유롭게 선택할 수 있다.
+
+  - 백엔드 연구원들은 `Java` 언어를 사용할 것을 권장한다.
+  - 프론트엔드 연구원들은 `JavaScript` 언어를 사용할 것을 권장한다.
+
+- 매주 **화요일 오후 6시 30분**에 검사를 진행한다.
+
+  - 단, 스터디원들 전원 합의가 있는 경우, 해당 주차는 검사를 면제받을 수 있다.
+  - 스터디원이 화요일에 미리 휴가를 고지한 경우, 해당 주차는 검사를 면제받을 수 있다.
+
+- 푼 문제들은, `TAlgorhythm` Orgnization의 개인 Repository에 코드를 `Push`해서 인증받는다.
+
+- 매주 풀어야 하는 문제의 수는 다음과 같다.
+  | 백준 | 프로그래머스 | 문항 수 |
+  | -------------- | ------------ | ----------------- |
+  | 💔 브론즈 3~5 및 Unrated | Lv. 0 | **인정하지 않음** |
+  | ❤️ 브론즈 1, 2 | Lv. 1 | **4문제** |
+  | 💖 실버 1~5 | Lv. 2 | **3문제** |
+  | 💛 골드 1~5 | Lv. 3 | **2문제** |
+  | 💚 플래티넘 이상 | Lv. 4 이상 | **1문제** |
+
+- 해당 문제를 풀지 않았을 경우 지불해야 할 벌금은 다음과 같다.
+  | 이름 | 풀이 언어 |
+  | ----------------- | ------------ |
+  | 3문제 이상 풀지 않음 | `3000`원 |
+  | 2문제 풀지 않음 | `2000`원 |
+  | 1문제 풀지 않음 | `1000` |
+  <br>
+
+# 👪 스터디원
+
+| 이름                 | 풀이 언어    | 비고               |
+| -------------------- | ------------ | ------------------ |
+| 🐯 **김해선** 연구원 | `Java`       | ⭐️ **_스터디장_** |
+| 🐰 **전해연** 연구원 | (미정)       | `2024.02.27` 합류  |
+| 🐷 **김영우** 연구원 | `JavaScript` |                    |
+| 🐻 **이기태** 연구원 | `Java`       |                    |
+| 🐹 **권현수** 연구원 | `JavaScript` |                    |
+| 🐸 **이주원** 연구원 | `Java`       |                    |
