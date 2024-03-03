@@ -11,16 +11,16 @@
 - **알고리즘 플랫폼**은 제한 없이 자유롭게 선택할 수 있다.
 
 - **풀이 언어** 및 **문제**는 제한 없이 자유롭게 선택할 수 있다.
-
   - 백엔드 연구원들은 `Java` 및 `C++`를 사용할 것을 권장한다.
   - 프론트엔드 연구원들은 `JavaScript` 및 `TypeScript`를 사용할 것을 권장한다.
   - `Python`은 사용 가능하지만 지양한다.
 
-- 푼 문제들은, `T-Algorhythm` Orgnization의 개인 Repository에 코드를 `Push`해서 인증받는다.
+- 푼 문제들은, `T-Algorhythm`의 개인 리포지토리에 코드를 `Push`해서 인증받는다.
+  - [`BaekjoonHub`](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko&pli=1)를 이용하여 인증을 하는 것을 권장하지만, 필수는 아니다.
 
 - 매주 **화요일 오후 6시 30분**에 검사를 진행한다.
   - 스터디원들의 전원 합의가 있는 경우, 해당 주차는 검사를 진행하지 않을 수 있다.
-  - 스터디원이 미리 휴가를 고지한 경우, 해당 주차는 검사를 면제받을 수 있다.
+  - 스터디원이 사전에 휴가를 고지한 경우, 해당 주차는 검사를 면제받을 수 있다.
     <br><br>
 
 # 📜 규칙
@@ -47,11 +47,11 @@
 
 # 👪 구성원
 
-| 이름                 | 풀이 언어    | 비고              |
-| -------------------- | ------------ | ----------------- |
-| 🐯 **김해선** 연구원 | `Java`       | ⭐️ **Leader**    |
-| 🐰 **전해연** 연구원 | (미정)       | `2024.02.27` 합류 |
-| 🐷 **김영우** 연구원 | `JavaScript` |                   |
-| 🐻 **이기태** 연구원 | `Java`       |                   |
-| 🐹 **권현수** 연구원 | `JavaScript` |                   |
-| 🐸 **이주원** 연구원 | `Java`       |                   |
+| 이름                 | 풀이 언어    | 리포지토리                                            | 비고              |
+| -------------------- | ------------ | ----------------------------------------------------- | ----------------- |
+| 🐯 **김해선** 연구원 | `Java`       | [`Sunny`](https://github.com/TAlgorhythm/Sunny)         | ⭐️ **Leader**    |
+| 🐰 **전해연** 연구원 | `Python`     | [`hailey`](https://github.com/TAlgorhythm/hailey)       | `2024.02.27` 합류 |
+| 🐷 **김영우** 연구원 | `JavaScript` | [`kyeryoong`](https://github.com/TAlgorhythm/kyeryoong) |                   |
+| 🐻 **이기태** 연구원 | `Java`       | [`kitaee`](https://github.com/TAlgorhythm/kitaee)       |                   |
+| 🐹 **권현수** 연구원 | `JavaScript` | [`RunSoo`](https://github.com/TAlgorhythm/RunSoo)       |                   |
+| 🐸 **이주원** 연구원 | `Java`       | [`jwon`](https://github.com/TAlgorhythm/jwon)           |                   |
