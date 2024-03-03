@@ -16,7 +16,7 @@
   - `Python`은 사용 가능하지만 지양한다.
 
 - 푼 문제들은, `T-Algorhythm`의 개인 리포지토리에 코드를 `Push`해서 인증받는다.
-  - [`BaekjoonHub`](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko&pli=1)를 이용하여 인증을 하는 것을 권장하지만, 필수는 아니다.
+  - [`BaekjoonHub`](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko&pli=1)를 이용하여 인증하는 것을 권장하지만, 필수는 아니다.
 
 - 매주 **화요일 오후 6시 30분**에 검사를 진행한다.
   - 스터디원들의 전원 합의가 있는 경우, 해당 주차는 검사를 진행하지 않을 수 있다.
