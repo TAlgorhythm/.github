@@ -50,6 +50,7 @@
 | 이름                 | 풀이 언어    | 리포지토리                                            | 비고              |
 | -------------------- | ------------ | ----------------------------------------------------- | ----------------- |
 | 🐯 **김해선** 연구원 | `Java`       | [`Sunny`](https://github.com/TAlgorhythm/Sunny)         | ⭐️ **Leader**    |
+| 🐭 **김수진** 연구원 | `JavaScript` |        | `2024.03.12` 합류 |
 | 🐰 **전해연** 연구원 | `Python`     | [`hailey`](https://github.com/TAlgorhythm/hailey)       | `2024.02.27` 합류 |
 | 🐷 **김영우** 연구원 | `JavaScript` | [`kyeryoong`](https://github.com/TAlgorhythm/kyeryoong) |                   |
 | 🐻 **이기태** 연구원 | `Java`       | [`kitaee`](https://github.com/TAlgorhythm/kitaee)       |                   |
