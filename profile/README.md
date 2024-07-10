@@ -1,9 +1,9 @@
-![image](https://github.com/TAlgorhythm/.github/assets/98510309/b0f53877-4d25-4ba5-a394-9a9144a29d17)
+![image](https://github.com/TAlgorhythm/.github/assets/98510309/2912f346-1b80-4300-b003-9ed3c5c6bd53)
 <br><br>
 
 # 📌 개요
 
-본 스터디는 [_TmaxWAPL_](https://wapl.ai)의 **PL 1-3팀** 소속 연구원들이 근무 도중, 흥에 못 이겨 리듬을 타기 시작해 개설된 알고리즘 스터디 모임이다.
+본 스터디는 [_TmaxCoreAI_](https://tmaxcore.ai)의 **CA 1-1-3팀** 소속 연구원들이 근무 도중, 흥에 못 이겨 리듬을 타기 시작해 개설된 알고리즘 스터디 모임이다.
 <br><br>
 
 # 🚀 스터디 방법
